@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Beer Adviser</string>
-    <string name="find_beer">buscar cerveza</string>
-    <string name="brands">Ninguna Cerveza</string>
+    <string name="find_beer">buscar producto</string>
+    <string name="brands">Ningun prod. seleccionado</string>
     <string-array name="tipos_cervezas">
         <item>Mercancias solidas</item>
         <item>Productos agricolas</item>

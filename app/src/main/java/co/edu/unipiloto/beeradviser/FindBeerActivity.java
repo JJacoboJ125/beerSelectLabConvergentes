@@ -21,15 +21,15 @@ public class FindBeerActivity extends AppCompatActivity {
         String prodType = String.valueOf(color.getSelectedItemId());
 
         if(prodType.equals("0")){
-            String temp = "1. Productos quimicos" +
-                         "\n2. Productos de construccion";
+            String temp = "1. madera" +
+                    "\n2. hierro";
 
             list.setText(temp);
         }
         if(prodType.equals("1")){
-            String temp = "1. Cereales" +
-                    "\n2. Frutales" +
-                    "\n3. leguminosas";
+            String temp = "1. semillas" +
+                    "\n2. arroz" +
+                    "\n3. naranjas";
             list.setText(temp);
         }
         if(prodType.equals("2")){
