@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">buscar cerveza</string>
+    <string name="brands">Ninguna Cerveza</string>
+    <string-array name="tipos_cervezas">
+        <item>Mercancias solidas</item>
+        <item>Productos agricolas</item>
+        <item>Liquidos</item>
+    </string-array>
+
+</resources>
